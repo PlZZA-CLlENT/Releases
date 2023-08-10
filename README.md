@@ -7,4 +7,5 @@ All macros have failsafes, for example player detection or stop when getting war
 There's still a shit ton more features, like a shit ton of esps and shit, but i cba mentioning them
 
 Upcoming: -Auto Fishing Macro -Pathfinding
+
 It's not a rat lmao its open source
